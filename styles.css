@@ -1,0 +1,37 @@
+
+/* BAckground color */
+body {
+  background-color: #EAF6F6;
+}
+
+/* Horizontal Rule*/
+hr {
+  background-color: #EAF6F6;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 5px;
+  width: 20%;
+}
+
+/* Heading Colors */
+
+h1 {
+  color: #7B113A;
+}
+
+
+h3 {
+  color: #150E56;
+}
+
+/* Img style*/
+
+img {
+  border: solid;
+  border-color: black;
+}
+
+img:hover {
+  border: 5px solid firebrick;
+}
